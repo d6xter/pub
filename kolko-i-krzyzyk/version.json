@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://raw.githubusercontent.com/d6xter/pub/main/kolko-i-krzyzyk/kolko-i-krzyzyk-1.6.apk",
-  "notes": "Gomoku wygląda teraz jak reszta gry: kratka z zeszytu, krzyżyki i kółka."
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://raw.githubusercontent.com/d6xter/pub/main/kolko-i-krzyzyk/kolko-i-krzyzyk-1.7.apk",
+  "notes": "W gomoku znak stawiasz jednym stuknięciem, tak jak w kółko i krzyżyk."
 }
