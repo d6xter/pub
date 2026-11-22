@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://raw.githubusercontent.com/d6xter/pub/main/kolko-i-krzyzyk/kolko-i-krzyzyk-1.8.apk",
-  "notes": "Poprawka: poprzedni ruch nie rysuje się już ponownie przy każdym nowym ruchu."
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://raw.githubusercontent.com/d6xter/pub/main/kolko-i-krzyzyk/kolko-i-krzyzyk-1.9.apk",
+  "notes": "Gra sprawdza aktualizacje także wtedy, gdy wracasz do niej z tła."
 }
