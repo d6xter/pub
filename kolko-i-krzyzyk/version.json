@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://raw.githubusercontent.com/d6xter/pub/main/kolko-i-krzyzyk/kolko-i-krzyzyk-1.4.apk",
-  "notes": "Nowa plansza 7×7 (5 w rzędzie). Gdy nikt nie może już wygrać, gra od razu kończy się remisem."
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://raw.githubusercontent.com/d6xter/pub/main/kolko-i-krzyzyk/kolko-i-krzyzyk-1.5.apk",
+  "notes": "Nowość: prawdziwe gomoku na planszy 15×15 (dokładnie 5 w rzędzie, zaczynają czarne)."
 }
