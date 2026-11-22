@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://raw.githubusercontent.com/d6xter/pub/main/kolko-i-krzyzyk/kolko-i-krzyzyk-1.2.apk",
-  "notes": "Gra sama sprawdza, czy jest nowa wersja."
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://raw.githubusercontent.com/d6xter/pub/main/kolko-i-krzyzyk/kolko-i-krzyzyk-1.3.apk",
+  "notes": "Wersja testowa: na dole ekranu gry widać teraz numer wersji."
 }
